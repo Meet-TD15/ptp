@@ -1,0 +1,32 @@
+/* src/Components/TripDurationSelection.css */
+
+.trip-duration-selection {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .journey-section,
+  .return-section {
+    width: 45%; /* Adjust width as needed */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: white;
+  }
+  
+  .date-time-picker {
+    margin-top: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  h2 {
+    margin-bottom: 15px;
+  }
+  
